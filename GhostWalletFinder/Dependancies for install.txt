@@ -1,7 +1,0 @@
-pip install customtkinter
-
-pip install packaging
-
-pip install bitcoinlib
-
-pip install pycryptodomex
