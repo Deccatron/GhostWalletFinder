@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-#GhostWalletFinder an open source Bitcoin Seed Finder
+#BittWalletFinder an open source Bitcoin Seed Finder, if you are wondering why sometimes GhostWalletFinder is mentioned its because i changed the corny ass name...
 #Developed by Deccatron and DigitalSamurai
 
 from customtkinter import *
